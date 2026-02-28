@@ -23,7 +23,7 @@ You play as a treasure hunter exploring a dungeon in search of the legendary **F
 > **Platform:** Windows 64-bit  
 > **Requirements:** A GPU with DirectX 12 support
 
-⚠️ Make sure all files and folders stay in the same directory as `4thTime.exe` — the game will not run if any of them are missing.
+Make sure all files and folders stay in the same directory as `4thTime.exe` — the game will not run if any of them are missing.
 
 ---
 
@@ -56,7 +56,7 @@ MonoBleedingEdge/                        # Mono runtime
 ## Source Code
 
 The full Unity project with source code is available in a separate repository:  
-👉 [**4thTime — Source Code**](https://github.com/YOUR_USERNAME/4thTime)
+[**4thTime — Source Code**](https://github.com/YOUR_USERNAME/4thTime)
 
 ---
 
